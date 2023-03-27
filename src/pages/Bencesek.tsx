@@ -9,7 +9,6 @@ const Bencesek = () => {
       <Link className="rounded-2xl hover:bg-white hover:bg-opacity-25" href={"#Bencesek"}>Bencés</Link>
       <a className="rounded-2xl hover:bg-white hover:bg-opacity-25" href="#Ferencesek">Ferences</a>
       <a className="rounded-2xl hover:bg-white hover:bg-opacity-25" href="#Palosok">Pálos</a>
-      <a className="rounded-2xl hover:bg-white hover:bg-opacity-25" href="#Domonkosok">Domonkos</a>
     </div>
         <h1 className="font-bold p-5 m-5 text-6xl lg:text-9xl" >Bencés rend</h1>
             <div className="flex justify-evenly flex-col md:flex-row">

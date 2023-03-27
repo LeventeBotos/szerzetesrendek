@@ -16,7 +16,14 @@ const Palosok = () => {
             <img alt="kep" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rockchapel.JPG/230px-Rockchapel.JPG" />
             <p className="self-center">Mostani legfőbb temploma a Szikla kápolna</p>
         </div>
+        
         <div className="p-4"><p>A címerükön Remete Szent Pálhoz kapcsolódó dolgok szerepelnek, mint a pálmafa, ami táplálta Pált, az oroszlán, ami Pál sírját ásta ki, és a holló egy cipővel a csőrében, ami a remeteségét fejezi ki.</p></div>
+        Készitették:
+      <ul className="font-bold">
+        <li>Botos Levente</li>
+        <li>Győrfi Péter</li>
+      </ul>
+  
   </div>
   )
 }
