@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <div className="text-white bg-black text-center text-xl flex-vertical xl:text-4xl">
-        <Bencesek />
+        <Bencesek />           
         <Ferencesek />
         <Trappista />
         <Ciszterciek />
