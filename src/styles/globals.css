@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .benc {
   background-color: #4158D0;
   background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
@@ -22,13 +23,15 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 .cisz {
   background-color: #74EBD5;
   background-image: linear-gradient(35deg, #74EBD5 0%, #9FACE6 100%);
-  
-
 }
 
 
 p {
   padding: 1rem;
+}
+
+h1 {
+  size: 30px;
 }
 
 img {

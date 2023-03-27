@@ -2,10 +2,10 @@ const Bencesek = () => {
     return (
       <div className='benc text-white flex flex-col justify-evenly'>
   
-        <h1 className="font-bold p-5 m-5">Bencés rend</h1>
+        <h1 className="font-bold p-5 m-5 text-4xl lg:text-7xl">Bencés rend</h1>
             <div className="flex justify-evenly flex-col md:flex-row">
                 <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Medalla_San_Benito.PNG/250px-Medalla_San_Benito.PNG" />
-                <p className="self-center">A bencés rend, vagyis a Szent Benedek rendje, egy katolikus szerzetesrend, amelyet Szent Benedek alapított Itáliában a 6. században. A bencés rend a világ egyik legrégebbi és legnagyobb szerzetesrendje, amely a szerzetesi életforma szigorú követése és az oktatásban, az írásban, valamint az evangélizációban nyújtott kimagasló teljesítménye révén vívta ki hírnevét.</p>
+                <p className="self-center effect-shine">A bencés rend, vagyis a Szent Benedek rendje, egy katolikus szerzetesrend, amelyet Szent Benedek alapított Itáliában a 6. században. A bencés rend a világ egyik legrégebbi és legnagyobb szerzetesrendje, amely a szerzetesi életforma szigorú követése és az oktatásban, az írásban, valamint az evangélizációban nyújtott kimagasló teljesítménye révén vívta ki hírnevét.</p>
             </div>
             <div className="flex justify-evenly flex-col md:flex-row">
                 <p className="self-center">A bencés szerzetesek a közösségi életforma alapján élnek, amelynek részei a szigorú napi rend, a rendszeres ima és a munka. Bár az egyes kolostorok önállóak, szoros kapcsolatban állnak egymással és az anyakolostorral.</p>
