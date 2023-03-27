@@ -2,10 +2,10 @@ const Trappista = () => {
   return (
     <div className='text-white flex flex-col justify-around'>
   
-        <h1 className="font-bold p-5 m-5 text-2xl lg:text-4xl">Ciszterci rend</h1>
-            <div className="text-xl lg:text-2xl">Egy másik rend ami a Bencésekből alakul ki, az a Trapista rend.</div>
-            <div className="text-xl lg:text-2xl">Ez a legszigorúbb a háromból, csend és azkízis (önmegtartóztatás) jellemzi.</div>
-            <div className="text-xl lg:text-2xl">Híresek a sajtjukról, és sörükről, ezek is azt mutatják, hogy a munka jelen volt a szerzetesek életében.</div>
+        <h1 className="font-bold p-5 m-5 text-4xl lg:text-6xl">Trappista rend</h1>
+            <div className=""><p>Egy másik rend ami a Bencésekből alakul ki, az a Trapista rend.</p></div>
+            <div className=""><p>Ez a legszigorúbb a háromból, csend és azkízis (önmegtartóztatás) jellemzi.</p></div>
+            <div className=""><p>Híresek a sajtjukról, és sörükről, ezek is azt mutatják, hogy a munka jelen volt a szerzetesek életében.</p></div>
     </div>
   )
 }

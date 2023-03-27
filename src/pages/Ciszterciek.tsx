@@ -2,10 +2,10 @@ const Ciszterciek = () => {
   return (
     <div className='text-white flex flex-col justify-around'>
   
-        <h1 className="font-bold p-5 m-5 text-2xl lg:text-4xl">Ciszterci rend</h1>
-            <div className="text-xl lg:text-2xl">Emellett elindul a Ciszterci mozgalom hasonló célokkal, de ők új rendet hoznak létre.</div>
-            <div className="text-xl lg:text-2xl">Kolostoruk a Ciszterci kolostor, innen kapja a nevét.</div>
-            <div className="text-xl lg:text-2xl">Magyarországi központjuk Zirc.</div>
+        <h1 className="font-bold p-5 m-5 text-4xl lg:text-6xl">Ciszterci rend</h1>
+            <div className=""><p>Emellett elindul a Ciszterci mozgalom hasonló célokkal, de ők új rendet hoznak létre.</p></div>
+            <div className=""><p>Kolostoruk a Ciszterci kolostor, innen kapja a nevét.</p></div>
+            <div className=""><p>Magyarországi központjuk Zirc.</p></div>
       </div>
   )
 }

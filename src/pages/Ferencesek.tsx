@@ -2,7 +2,7 @@ const Ferencesek = () => {
   return (
     <div className='fer text-white flex flex-col justify-evenly'>
   
-        <h1 className="font-bold p-5 m-5 text-4xl lg:text-7xl">Ferences rend</h1>
+        <h1 className="font-bold p-5 m-5 text-6xl lg:text-9xl">Ferences rend</h1>
             <div className="flex justify-evenly flex-col md:flex-row">
                 <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Medalla_San_Benito.PNG/250px-Medalla_San_Benito.PNG" />
                 <p className="self-center">A bencés rend, vagyis a Szent Benedek rendje, egy katolikus szerzetesrend, amelyet Szent Benedek alapított Itáliában a 6. században. A bencés rend a világ egyik legrégebbi és legnagyobb szerzetesrendje, amely a szerzetesi életforma szigorú követése és az oktatásban, az írásban, valamint az evangélizációban nyújtott kimagasló teljesítménye révén vívta ki hírnevét.</p>

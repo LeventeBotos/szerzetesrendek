@@ -11,13 +11,13 @@ const Bencesek = () => {
       <a className="rounded-2xl hover:bg-white hover:bg-opacity-25" href="#Palosok">Pálos</a>
       <a className="rounded-2xl hover:bg-white hover:bg-opacity-25" href="#Domonkosok">Domonkos</a>
     </div>
-        <h1 className="font-bold p-5 m-5 text-4xl lg:text-7xl" >Bencés rend</h1>
+        <h1 className="font-bold p-5 m-5 text-6xl lg:text-9xl" >Bencés rend</h1>
             <div className="flex justify-evenly flex-col md:flex-row">
                 <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Medalla_San_Benito.PNG/250px-Medalla_San_Benito.PNG" />
                 <div className='text-white flex flex-col justify-around'>
-                 <div className="text-xl lg:text-2xl">Nursiai Szent Benedek alapította, már a VI. században, ez volt a legelső szerzetesrend.</div>
-                 <div className="text-xl lg:text-2xl">Ora et labora = Imádkozz és dolgozz  - Nem csak az ima, hanem a munka is nagyon fontos, Pl.: Földművelés, orvoslás, tanítás.</div>
-                <div className="text-xl lg:text-2xl">Elvilágiasodik, gazdaggá válik a rend, és ezzel visszaélnek, ezért kialakul a cluny mozgalom, ami vissza szeretne térni az eredeti rendi életmódhoz, és a Bencés regulához.</div>
+                 <div className=""><p>Nursiai Szent Benedek alapította, már a VI. században, ez volt a legelső szerzetesrend.</p></div>
+                 <div className=""><p>Ora et labora = Imádkozz és dolgozz  - Nem csak az ima, hanem a munka is nagyon fontos, Pl.: Földművelés, orvoslás, tanítás.</p></div>
+                <div className=""><p>Elvilágiasodik, gazdaggá válik a rend, és ezzel visszaélnek, ezért kialakul a cluny mozgalom, ami vissza szeretne térni az eredeti rendi életmódhoz, és a Bencés regulához.</p></div>
                 </div>
             </div>
             <div className="flex justify-evenly flex-col md:flex-row">
