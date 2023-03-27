@@ -14,7 +14,11 @@ const Bencesek = () => {
         <h1 className="font-bold p-5 m-5 text-4xl lg:text-7xl" >Bencés rend</h1>
             <div className="flex justify-evenly flex-col md:flex-row">
                 <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Medalla_San_Benito.PNG/250px-Medalla_San_Benito.PNG" />
-                <p className="self-center effect-shine">A bencés rend, vagyis a Szent Benedek rendje, egy katolikus szerzetesrend, amelyet Szent Benedek alapított Itáliában a 6. században. A bencés rend a világ egyik legrégebbi és legnagyobb szerzetesrendje, amely a szerzetesi életforma szigorú követése és az oktatásban, az írásban, valamint az evangélizációban nyújtott kimagasló teljesítménye révén vívta ki hírnevét.</p>
+                <div className='text-white flex flex-col justify-around'>
+                 <div className="text-xl lg:text-2xl">Nursiai Szent Benedek alapította, már a VI. században, ez volt a legelső szerzetesrend.</div>
+                 <div className="text-xl lg:text-2xl">Ora et labora = Imádkozz és dolgozz  - Nem csak az ima, hanem a munka is nagyon fontos, Pl.: Földművelés, orvoslás, tanítás.</div>
+                <div className="text-xl lg:text-2xl">Elvilágiasodik, gazdaggá válik a rend, és ezzel visszaélnek, ezért kialakul a cluny mozgalom, ami vissza szeretne térni az eredeti rendi életmódhoz, és a Bencés regulához.</div>
+                </div>
             </div>
             <div className="flex justify-evenly flex-col md:flex-row">
             <Trappista />

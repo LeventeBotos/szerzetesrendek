@@ -1,18 +1,12 @@
 const Trappista = () => {
   return (
-    <div className=' text-white flex flex-col justify-evenly'>
+    <div className='text-white flex flex-col justify-around'>
   
-        <h1 className="font-bold p-5 m-5 text-2xl lg:text-4xl">Trappista rend</h1>
-        <div className="flex justify-evenly flex-col md:flex-row">
-                <p className="self-center">A bencés rend, vagyis a Szent Benedek rendje, egy katolikus szerzetesrend, amelyet Szent Benedek alapított Itáliában a 6. században. A bencés rend a világ egyik legrégebbi és legnagyobb szerzetesrendje, amely a szerzetesi életforma szigorú követése és az oktatásban, az írásban, valamint az evangélizációban nyújtott kimagasló teljesítménye révén vívta ki hírnevét.</p>
-            </div>
-            <div className="flex justify-evenly flex-col md:flex-row">
-                <p className="self-center">A bencés szerzetesek a közösségi életforma alapján élnek, amelynek részei a szigorú napi rend, a rendszeres ima és a munka. Bár az egyes kolostorok önállóak, szoros kapcsolatban állnak egymással és az anyakolostorral.</p>
-            </div>
-            <div>
-                <p className="self-center">A bencés szerzetesek híresek a világi műveltség terjesztésére irányuló tevékenységükről, az ősi írások másolásáról és megőrzéséről, az oktatásról és a misszióról. A bencés szerzetesek kolostorai szerte a világban megtalálhatók, és sok helyen fontos szerepet játszanak az oktatásban, a kulturális életben és a közösségi szolgáltatásokban.</p>
-            </div>
-      </div>
+        <h1 className="font-bold p-5 m-5 text-2xl lg:text-4xl">Ciszterci rend</h1>
+            <div className="text-xl lg:text-2xl">Egy másik rend ami a Bencésekből alakul ki, az a Trapista rend.</div>
+            <div className="text-xl lg:text-2xl">Ez a legszigorúbb a háromból, csend és azkízis (önmegtartóztatás) jellemzi.</div>
+            <div className="text-xl lg:text-2xl">Híresek a sajtjukról, és sörükről, ezek is azt mutatják, hogy a munka jelen volt a szerzetesek életében.</div>
+    </div>
   )
 }
 
