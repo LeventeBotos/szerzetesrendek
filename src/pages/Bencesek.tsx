@@ -27,13 +27,10 @@ const Bencesek = () => {
       </div>
       <h1 className="font-bold p-5 m-5 text-6xl lg:text-9xl">Bencés rend</h1>
       <div className="flex justify-evenly flex-col md:flex-row">
-        <div className="flex flex-col md:flex-row">
           <img
             alt="logo"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Medalla_San_Benito.PNG/250px-Medalla_San_Benito.PNG"
           />
-          <h2>A bencés rend jelképe.</h2>
-        </div>
         <div className="text-white flex flex-col justify-around">
           <div className="">
             <p>
